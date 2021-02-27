@@ -9,4 +9,5 @@ echo "Doten";
 
 echo "Hello, Bryantz!";
 
+echo "Sorawaii";
 ?>
